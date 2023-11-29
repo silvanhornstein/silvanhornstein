@@ -10,8 +10,8 @@ Currently as:
 
 ## This repository
 Includes Code on Papers & Projects, most relevantly:
-1. Code for a NLP Paper currently under Revision at NPJ
-2. Code for a NLP Tutorial currently under Revision at ZfP
+1. Code for a NLP Paper currently under Review at NPJ
+2. Code for a NLP Tutorial currently under Review at ZfP
 
 ## Other work:
 Make sure to check out other work from me on AI & Mental Health:
