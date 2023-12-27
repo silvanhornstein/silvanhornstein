@@ -1,12 +1,12 @@
 ### Moin ihr Landratten 👋
 
 ## About Me
-Hi, I am Silvan Hornstein.
-I studied Psychology in Berlin (FU, BSc), Potsdam (MSc) and Vienna (Erasmus) as well as Evolutionary Anthropology in Oxford (MSc.). 
-Since 2018 I am working on AI & Digitalization in Mental Healthcare,
+Hi, I am Silvan!
+I am a Berlin-Trained Psychologist (BSc, MSC), Oxford-Trained Evolutionary Anthropologist (MSc).
+Since 2020 I am working on AI & Digitalization in Mental Healthcare,
 Currently as:
-- A PhD Studend at HU Berlin
-- A Data Scientist @Elona Health and @Krisenchat
+- A PhD Student at HU Berlin, focussed on AI Applications in Digital Mental Healthcare.
+- A Data Scientist @ Elona Health and @ Krisenchat
 
 ## This repository
 Includes Code on Papers & Projects, most relevantly:
