@@ -2,7 +2,7 @@
 
 ## About Me
 Hi, I am Silvan!
-I am a Berlin-Trained Psychologist (BSc, MSC), Oxford-Trained Evolutionary Anthropologist (MSc).
+I am a Berlin-trained Psychologist (BSc, MSc), Oxford-trained Evolutionary Anthropologist (MSc).
 Since 2020 I am working on AI & Digitalization in Mental Healthcare,
 Currently as:
 - A PhD Student at HU Berlin, focussed on AI Applications in Digital Mental Healthcare.
