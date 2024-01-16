@@ -11,7 +11,7 @@ Currently as:
 ## This repository
 Includes Code on Papers & Projects, most relevantly:
 1. Code for a NLP Paper currently under Review at NPJ
-2. Code for a NLP Tutorial currently under Review at ZfP
+2. Code for a NLP Tutorial on German Healthcare Data
 
 ## Other work:
 Make sure to check out other work from me on AI & Mental Health:
