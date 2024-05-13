@@ -10,7 +10,7 @@ Currently as:
 
 ## This repository
 Includes Code on Papers & Projects, most relevantly:
-1. Code for a NLP Paper currently under Review at NPJ
+1. Code for a NLP Paper, accepted at NPJ digital medicine
 2. Code for a NLP Tutorial on German Healthcare Data
 
 ## Other work:
