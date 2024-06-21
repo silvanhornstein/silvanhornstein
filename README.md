@@ -10,8 +10,9 @@ Currently as:
 
 ## This repository
 Includes Code on Papers & Projects, most relevantly:
-1. Code for a NLP Paper, accepted at NPJ digital medicine
+1. Code for a NLP Paper, poublished at NPJ digital medicine
 2. Code for a NLP Tutorial on German Healthcare Data
+3. Code for a NLP Paper, submitted at JMIR AI 
 
 ## Other work:
 Make sure to check out other work from me on AI & Mental Health:
