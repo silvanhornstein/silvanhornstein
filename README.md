@@ -18,5 +18,5 @@ Make sure to check out other work from me & colleagues on AI & Mental Health:
 2. Outcome Prediction in Digital Mental Health: https://journals.sagepub.com/doi/full/10.1177/20552076211060659
 3. ML-Based Prediction of Depressive Symptoms out of a Wearable: https://osf.io/preprints/psyarxiv/9z3pr/
 
-Also feel free to read about philia:relationships matters at 
+Also feel free to read about platoniq at 
 [Berlin University Alliance](https://www.berlin-university-alliance.de/wissenslabor/stories/i_hornstein/index.html).
