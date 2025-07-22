@@ -4,7 +4,7 @@
 Hi, I am Silvan!
 I am a Berlin-trained Psychologist (BSc, MSc, PhD) and Oxford-trained Evolutionary Anthropologist (MSc).
 Since 2020 I have been working on AI & Digitalization in Mental Healthcare, with a focus on Machine Learning Classification Problems and Digital Interventions.
-Currently I am working on the topic of social health, loneliness, social relationships and friendships at [philia.health](https://philia.health)
+Currently I am working on the topic of social health, loneliness, social relationships and friendships at [platoniq.health](https://platoniq.health)
 
 ## This repository
 Includes Code on Papers & Projects, most relevantly:
